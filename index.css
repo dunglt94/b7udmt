@@ -1,0 +1,13 @@
+table {
+    border: 0 solid white;
+    border-collapse: collapse;
+    font-family: sans-serif, Tahoma;
+}
+
+input {
+    height: 20px;
+}
+
+button {
+    height: 25px;
+}
